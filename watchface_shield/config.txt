@@ -1,0 +1,102 @@
+[watchface_name] = 神盾局1.0
+[watchface_author] = ShellC
+
+//表盘背景：
+[background_icon_pos] = {0,0}
+[background_icon] = background.png
+
+//表盘状态
+[touch_lock_icon_pos] = {160,18} 
+[touch_lock_icon]=  icon\lock.png
+
+[bluetooth_icon_pos] =  {135,2}
+[bluetooth_on_icon] =  icon\bt_on.png
+[bluetooth_off_icon] =  icon\bt_off.png
+
+[no_disturb_icon_pos] = {110,2}
+[no_disturb_on_icon] =  icon\disturb.png
+[no_disturb_off_icon]
+
+[battery_icon_pos] = {155,2}
+[battery_icon_dir]= battery
+
+[battery_level_rect]=
+[battery_level_font]=
+[battery_level_font_color] = 
+
+[weather_icon_pos]= {125, 158}  
+[weather_icon_dir]= weather
+
+[temperature_rect]= {142,158,157,168,right|vcenter}
+[temperature_font]= font6x11
+[temperature_font_color] = 0xFFFFFF
+[temperature_negative_sign_icon] =  icon\negative.png
+
+[step_rect] = {18,158,48,168,hcenter|vcenter}
+[step_font] = font6x11
+[step_font_color] = 0xFFFFFF
+
+[step_goal_rect]=
+[step_goal_font]=
+[step_goal_font_color]
+
+[kcal_rect]=
+[kcal_font]=
+[kcal_font_color]
+
+//表盘时间
+[time_hour_high_pos] = {42,73}
+[time_hour_high_font] = font21x40
+[time_hour_high_font_color] = 0x000000
+
+[time_hour_low_pos] = {62,73}
+[time_hour_low_font] = font21x40
+[time_hour_low_font_color] = 0x000000
+
+[time_minute_high_pos] = {96,73}
+[time_minute_high_font] = font21x40
+[time_minute_high_font_color] = 0x000000
+ 
+[time_minute_low_pos] = {116,73}
+[time_minute_low_font] = font21x40
+[time_minute_low_font_color] = 0x000000
+
+[time_second_high_pos]
+[time_second_high_font] = 
+[time_second_high_font_color]
+
+[time_second_low_pos]
+[time_second_low_font] = 
+[time_second_low_font_color]
+
+//表盘日期
+//格式rect = {x0,y0,x1,y1,left/hcenter/right | top/vcenter/bottom}
+
+[date_month_rect] = {0,4,12,10,right|top}
+[date_month_font] = font6x11
+[date_month_font_color] = 0xFFFFFF
+
+[date_day_rect] = {15,4,33,10,right|top}
+[date_day_font] = font6x11
+[date_day_font_color] = 0xFFFFFF
+
+[date_week_rect] = {57,2,120,10,left|top}
+[date_week_font] = week
+[date_week_font_color] = 0xFFFFFF
+
+//表盘指针
+[time_hour_polygon] =
+[time_hour_polygon_color] = 
+[time_hour_polygon_pen_size] = 
+
+[time_minute_polygon] =
+[time_minute_polygon_color] =
+[time_minute_polygon_pen_size] =
+
+[time_second_polygon] = 
+[time_second_polygon_color] = 
+[time_second_polygon_pen_size] =
+
+[time_center_polygon_icon] =
+
+
