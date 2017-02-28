@@ -1,4 +1,4 @@
-[watchface_name] = 神盾局1.0
+[watchface_name] = 神盾局2.0
 [watchface_author] = ShellC
 
 //表盘背景：
@@ -6,8 +6,8 @@
 [background_icon] = background.png
 
 //表盘状态
-[touch_lock_icon_pos] = {160,18} 
-[touch_lock_icon]=  icon\lock.png
+[touch_lock_icon_pos] = {0,0} 
+[touch_lock_icon]=  background_lock.png
 
 [bluetooth_icon_pos] =  {135,2}
 [bluetooth_on_icon] =  icon\bt_on.png
@@ -98,5 +98,18 @@
 [time_second_polygon_pen_size] =
 
 [time_center_polygon_icon] =
+
+
+//解锁动画
+
+[animation_icon_framerate] = 
+[animation_icon_play_mode] = 
+[animation_icon_play_times] = 
+[animation1_icon_pos] = 
+[animation1_icon_dir] = 
+
+[watchface_layout] = 
+
+
 
 
